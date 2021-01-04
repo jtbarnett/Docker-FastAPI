@@ -4,7 +4,7 @@ Built with Python version 3.9.1 and Docker version 20.10.0.
 
 ## Purpose
 
-The purpose was to create a simple web application with Python and FastAPI. The project can be deployed to Docker.
+The purpose was to create a simple web application with Python and FastAPI. The project can be deployed with Docker.
 
 ## Build and Run
 
